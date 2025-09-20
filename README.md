@@ -1,0 +1,3 @@
+- *Smallest Number*
+- Smallest number in JS and Python
+- <img width="671" height="781" alt="image" src="https://github.com/user-attachments/assets/d3073fb3-612e-4ba7-86f6-ed5e05055d98" />
